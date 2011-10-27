@@ -13,7 +13,7 @@ package sandbox.of.bytecode
 	import org.flexunit.async.Async;
 	import org.hamcrest.object.notNullValue;
 	
-	public class ProxyingNativeClass
+	public class ProxyingNativeClassFails
 	{
 		[Before]
 		public function setup():void 
