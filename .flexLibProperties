@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="sandbox.of.bytecode.ProxyingNativeSubclassFails"/>
+    <classEntry path="sandbox.of.bytecode.Ghostly"/>
+    <classEntry path="sandbox.of.bytecode.Natively"/>
+    <classEntry path="sandbox.of.bytecode.Concrete"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
